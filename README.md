@@ -22,7 +22,6 @@
 
 
 If you make use of the dataset please cite:
-
 ```
 @inproceedings{doumanoglou2016recovering,
   title={Recovering 6D object pose and predicting next-best-view in the crowd},
